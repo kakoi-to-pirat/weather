@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Horocek.github.io/weather/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Horocek.github.io/weather/static/js/main.2f085e04.chunk.js",
+    "main.js.map": "/Horocek.github.io/weather/static/js/main.2f085e04.chunk.js.map",
+    "runtime-main.js": "/Horocek.github.io/weather/static/js/runtime-main.4c02c28c.js",
+    "runtime-main.js.map": "/Horocek.github.io/weather/static/js/runtime-main.4c02c28c.js.map",
+    "static/js/2.95b872a3.chunk.js": "/Horocek.github.io/weather/static/js/2.95b872a3.chunk.js",
+    "static/js/2.95b872a3.chunk.js.map": "/Horocek.github.io/weather/static/js/2.95b872a3.chunk.js.map",
+    "index.html": "/Horocek.github.io/weather/index.html",
+    "precache-manifest.4d683c13559ec482966b8176d7b15b7a.js": "/Horocek.github.io/weather/precache-manifest.4d683c13559ec482966b8176d7b15b7a.js",
+    "service-worker.js": "/Horocek.github.io/weather/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Horocek.github.io/weather/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.95b872a3.chunk.js.LICENSE.txt": "/Horocek.github.io/weather/static/js/2.95b872a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c02c28c.js",
+    "static/js/2.95b872a3.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.2f085e04.chunk.js"
+  ]
+}
